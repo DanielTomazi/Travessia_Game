@@ -1,7 +1,8 @@
-# Travessia_Game
+# Travessia Game
 Game criado utilizando JavaScript.
 ***************************************************
-Version 1.0 - Game da travessia, o mesmo consiste em atravessar a rua sem ser atingido pelos carros com o animal controlado pelo player.
-Já inseridos na pasta inclusa aqui no GitHub os sons e assets utilizados pelo código.
+O jogo consiste em atravessar a rua sem ser atropelado pelos carros, para andar com a vaquinha, basta utilizar as teclas "Para cima" e "Para baixo" do teclado, caso você seja atingido por um carro a pontuação reseta e você volta para o começo da rua, a cada travessia bem realizada, você acumula um ponto. 
+
+![Imagem do jogo](https://github.com/DanielTomazi/Travessia_Game/blob/main/Jogo%20Travessia%20-%20Demonstrativo.png)
 ****
 # Autor: Daniel Tomazi de Oliveira
