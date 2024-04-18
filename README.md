@@ -2,6 +2,7 @@
 Teste o game aqui --> https://travessia-game.vercel.app
 *******
 Game criado utilizando JavaScript.
+(O game não foi adaptado para rodar em mobiles, testar ou utilizar em um PC)
 ***************************************************
 O jogo consiste em atravessar a rua sem ser atropelado pelos carros, para andar com a vaquinha, basta utilizar as teclas "Para cima" e "Para baixo" do teclado, caso você seja atingido por um carro você perde um ponto e volta para o começo da rua, a cada travessia bem realizada, você acumula um ponto. 
 
